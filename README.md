@@ -19,6 +19,8 @@ POST Error fix ( Run one time CleanNvram )
 
 Sleep (fans and RGB LEDs included)
 
+Awake
+
 iMessange
 
 Face Time
@@ -37,7 +39,6 @@ Bluetooth
 
 WiFi
 
-All USB
-
+All USB3 USB2
 
 
