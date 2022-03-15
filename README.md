@@ -13,8 +13,6 @@ Arbeitsspeichergröße: 8 GB
 
 MQUPIN PCI-E-WLAN-Karte,Gigabit-Netzwerkkarte, BCM94360CS2 802.11ac WLAN-Adapter, Bluetooth 4.0
 
-Produktart: Desktop
-
 POST Error fix ( Run one time CleanNvram )
 
 Everything works 
