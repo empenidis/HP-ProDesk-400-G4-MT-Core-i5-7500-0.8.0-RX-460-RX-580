@@ -15,7 +15,9 @@ MQUPIN PCI-E-WLAN-Karte,Gigabit-Netzwerkkarte, BCM94360CS2 802.11ac WLAN-Adapter
 
 POST Error fix ( Run one time CleanNvram )
 
-Everything works 
+#Everything works
+
+Sleep (fans and RGB LEDs included)
 
 iMessange
 
