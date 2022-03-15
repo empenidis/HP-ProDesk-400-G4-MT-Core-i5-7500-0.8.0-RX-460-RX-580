@@ -27,6 +27,8 @@ Apple tv
 
 Netflix
 
+Prime tv
+
 
 
 
