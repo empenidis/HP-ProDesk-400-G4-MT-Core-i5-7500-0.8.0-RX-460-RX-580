@@ -33,6 +33,7 @@ Prime tv
 
 Audio (select internal speakers)
 
+
 Ethernet
 
 Bluetooth
