@@ -39,6 +39,6 @@ Bluetooth
 
 WiFi
 
-All USB3 USB2
+USB3 USB2
 
 
