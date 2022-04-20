@@ -40,7 +40,7 @@ Bluetooth
 WiFi
 
 USB3 USB2!
-[HP_ProDesk_400_G4_MT_02](https://user-images.githubusercontent.com/99202696/164334279-d05b0059-d3bf-4082-a286-7a0d3f80fc0a.jpeg)
+
 
 
 
